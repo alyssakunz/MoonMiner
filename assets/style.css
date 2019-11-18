@@ -1,0 +1,24 @@
+body{
+  height: 100vh;
+}
+
+.title{
+  height: 10vh;
+}
+
+.content{
+  height: 82vh;
+}
+
+.game{
+  user-select: none;
+}
+
+#moon{
+  height: 20em;
+  width: 20em;
+}
+
+.foot{
+  height: 8vh;
+}
